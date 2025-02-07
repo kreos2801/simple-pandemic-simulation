@@ -91,6 +91,8 @@ By following this guide, you should be able to correctly fill in the configurati
 
 Finally, you will need to compile your code and run it with:
 
+gcc *.c -o Prog.exe
+
 ./Prog.exe config.txt nbiteration node_to_observe_in_real_time
 
 Example
